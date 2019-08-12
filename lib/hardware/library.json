@@ -1,0 +1,4 @@
+{
+    "name": "hardware",
+    "description": "Contains utility classes to manage hardware e.g. OLED display"
+}
